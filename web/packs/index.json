@@ -1,6 +1,7 @@
 {
   "packs": [
-    "reddit.json"
+    "reddit.json",
+    "emotes.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
